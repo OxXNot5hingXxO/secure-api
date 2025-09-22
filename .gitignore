@@ -1,0 +1,13 @@
+# Python & env
+__pycache__/
+*.pyc
+.venv/
+.env
+*.hash
+secure.txt
+/mnt/d/Auth/
+/mnt/g/SecureStuff/
+
+# editors
+.vscode/
+.idea/
